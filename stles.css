@@ -1,0 +1,20 @@
+body{
+ background-color: azure;
+ background-image: url("./iim\ rohtak.webp");
+ background-size: 100%;
+}
+
+div{
+ margin-left: 25%;
+ width: 50%;
+}
+
+#test{
+ background-color: transparent;
+}
+
+#button{
+ height: 50px;
+ width: 250px;
+ background-color: aliceblue;
+}
